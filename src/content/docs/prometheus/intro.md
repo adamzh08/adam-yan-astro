@@ -3,8 +3,6 @@ title: Introduction to Prometheus project
 description: A guide in my new Starlight docs site.
 ---
 
-## Prometheus: Evolutionary Ant Simulation
-
 ## Overview
 **Prometheus** is a sophisticated C++ evolutionary game that demonstrates the power of artificial intelligence through natural selection. Built with RayLib and compiled to WebAssembly (WASM), this browser-based simulation showcases how simple agents can evolve complex behaviors to solve navigation challenges.
 

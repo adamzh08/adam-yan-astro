@@ -9,7 +9,9 @@ export interface Props {
 const { title = "Emscripten App" } = Astro.props;
 ---
 
-<StarlightPage frontmatter={{ title: 'My custom page', tableOfContents: false }} >
+<StarlightPage frontmatter={{ title: 'Standard Prometheus', tableOfContents: false }} >
+
+    <p>This is the Standard Prometheus that utilizes a regular DNN. </br>(Limited Evolutionary Potential)</p>
 
 <div style="width: 150%; height: 100%; margin-left: -25%">
     <canvas id="canvas" oncontextmenu="event.preventDefault()" tabindex="-1"></canvas>

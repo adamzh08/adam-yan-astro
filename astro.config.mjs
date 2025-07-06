@@ -25,10 +25,6 @@ export default defineConfig({
 						{ label: 'Neat game', link: '/neat/neat' },
 					],
 				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
 			],
 		}),
 	],
